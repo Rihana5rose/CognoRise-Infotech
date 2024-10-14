@@ -40,6 +40,10 @@ The project aims to explore unemployment trends, employment numbers, and labor p
 ---
 
 ## Business Questions Answered
+<p align="center">
+  <img src="https://github.com/Rihana5rose/Images/blob/main/unemployment.jpg" alt="Dashboard Screenshot">
+</p>
+
 - **What are the top 5 regions with the highest employment?**
 - **What were the unemployment trends during the pandemic?**
 - **How did rural and urban unemployment rates compare?**
