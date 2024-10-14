@@ -1,5 +1,5 @@
 # Unemployment in India During COVID-19 – Data Analytics Project
-![Dashboard Screenshot](https://github.com/Rihana5rose/Images/blob/main/unemployment.jpeg).
+![Dashboard Screenshot](https://github.com/Rihana5rose/Images/blob/main/unemployment1.jpg).
 
 ## Introduction
 This repository contains my work as a Data Analyst intern at **CognoRise Infotech**. The project focuses on analyzing and visualizing the *Unemployment in India* dataset, especially during the COVID-19 pandemic, using tools like **Excel**, **Power Query**, and **Pivot Tables**.
