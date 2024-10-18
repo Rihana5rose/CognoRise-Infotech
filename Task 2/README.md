@@ -1,5 +1,9 @@
 # Employee Salaries for Different Job Roles
 
+<p align="center">
+  <img src="https://github.com/Rihana5rose/Images/blob/main/salary1.jpg" alt="Dashboard Screenshot">
+</p>
+
 ## Project Overview
 This project focuses on analyzing salary distributions across various job roles, experience levels, employment types, and company sizes. By leveraging **Excel** and **Power Query**, this analysis aims to provide actionable insights that can guide career decisions and salary benchmarking.
 
@@ -12,6 +16,10 @@ This project focuses on analyzing salary distributions across various job roles,
 ---
 
 ## Project Workflow
+
+<p align="center">
+  <img src="https://github.com/Rihana5rose/Images/blob/main/salary2.jpg" alt="Dashboard Screenshot">
+</p>
 
 ### 1. Data Collection & Preparation
 The dataset includes information such as:
@@ -50,8 +58,14 @@ A **dynamic dashboard** was created to visualize the key insights:
 - **Bar charts** for salary comparisons across job roles and experience levels
 - **Pie charts** to illustrate salary distribution by employment type
 - **Slicers** for interactive filtering by job title, company size, and remote ratio
-- **Scroll bar** for viewing specific data points interactively
+- **Scroll bar** for viewing specific data points interactively.
 
+
+<p align="center">
+  <img src="https://github.com/Rihana5rose/Images/blob/main/salary4.jpg" alt="Dashboard Screenshot">
+</p>
+
+  
 ### 6. Insights & Key Findings
 Some of the important insights derived from the analysis include:
 - **Mid-level professionals** tend to earn higher salaries than entry-level and even some senior-level roles, depending on the job title.
