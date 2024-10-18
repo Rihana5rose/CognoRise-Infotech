@@ -1,14 +1,32 @@
 # Data Analytics Projects Repository
 
-This repository contains data analytics projects completed as part of my internship at **Cognorise Infotech**. Each project showcases various data analysis techniques, tools, and insights. The projects aim to address real-world problems and provide actionable insights through data exploration, visualization, and modeling.
+This repository contains data analytics projects completed as part of my internship at **Cognorise Infotech**. The projects focus on analyzing employment trends and salary distributions using **Excel** and **Power Query** for dashboard creation and data analysis.
+
 ## Projects Overview
 
-### [Unemployment in India During COVID-19]
+1. **Unemployment in India During COVID-19**
+   - **Objective**: Analyze unemployment trends in India during the COVID-19 pandemic.
+   - **Dataset**: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india) collected from Kaggle.
+   - **Techniques Used**: Data cleaning, aggregation, and visualization.
+   - **Tools**: Excel, Power Query.
+   - **Outcome**: Created a dashboard to highlight trends in unemployment rates across various states and time periods, revealing the pandemic's significant impact on the job market.
 
-- **Objective**: To analyze the unemployment trends in India during the COVID-19 pandemic and visualize the impact using a comprehensive dashboard.
-- **Dataset**: Collected from government sources and open databases related to unemployment rates in India during the COVID-19 period.
-- **Techniques Used**:
-  - Data cleaning and transformation using Power Query.
-  - Dashboard creation in Excel to visualize trends, comparisons, and key insights.
-- **Tools**: Microsoft Excel, Power Query.
-- **Outcome**: The dashboard provides insights into how unemployment rates fluctuated across different regions of India, the peak periods of job losses, and the recovery trends post-lockdown.
+2. **Employment Salary for Different Job Roles**
+   - **Objective**: Analyze salary distributions across different job roles in various industries.
+   - **Dataset**: [Employee Salaries for Different Job Roles](https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles) collected from Kaggle.
+   - **Techniques Used**: Data cleaning, aggregation, and visualization.
+   - **Tools**: Excel, Power Query.
+   - **Outcome**: Developed a dashboard showing salary ranges for different job roles, job locations, employment type etc., to enable a better understanding of compensation trends across industries.
+
+## Repository Structure
+
+```bash
+├── Unemployment-in-India-COVID19/
+│   ├── data/        # Dataset files
+│   ├── dashboards/  # Excel files with dashboards
+│   └── README.md    # Detailed README for Unemployment in India project
+├── Employment-Salary-Analysis/
+│   ├── data/
+│   ├── dashboards/
+│   └── README.md    # Detailed README for Employment Salary Analysis project
+└── README.md        # Main README file (this file)
