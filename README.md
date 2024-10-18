@@ -11,7 +11,7 @@ This repository contains data analytics projects completed as part of my interns
    - **Tools**: Excel, Power Query.
    - **Outcome**: Created a dashboard to highlight trends in unemployment rates across various states and time periods, revealing the pandemic's significant impact on the job market.
 
-2. **Employment Salary for Different Job Roles**
+2. **Employee Salaries for Different Job Roles**
    - **Objective**: Analyze salary distributions across different job roles in various industries.
    - **Dataset**: [Employee Salaries for Different Job Roles](https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles) collected from Kaggle.
    - **Techniques Used**: Data cleaning, aggregation, and visualization.
