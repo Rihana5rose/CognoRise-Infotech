@@ -13,8 +13,6 @@ This project analyzes a dataset of 80 cereals, focusing on their nutritional val
 3. [Key Findings](#key-findings)
 4. [Tools Used](#tools-used)
 5. [Visualizations](#visualizations)
-6. [How to Run the Project](#how-to-run-the-project)
-7. [Conclusion](#conclusion)
 
 ## Project Workflow
 1. **Data Collection**: 
