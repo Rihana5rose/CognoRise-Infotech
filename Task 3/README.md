@@ -1,5 +1,9 @@
 # 80 Cereals Data Analytics Project 🥣
 
+<p align="center">
+  <img src="https://github.com/Rihana5rose/Images/blob/main/breakfast-cereal-banner.webp" alt="Dashboard Screenshot">
+</p>
+
 ## Project Overview
 This project analyzes a dataset of 80 cereals, focusing on their nutritional values, consumer ratings, and brand performance. The goal was to uncover insights into how various nutritional factors, such as sugar and fiber content, affect cereal ratings and consumer preferences.
 
