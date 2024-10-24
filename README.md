@@ -17,3 +17,10 @@ This repository contains data analytics projects completed as part of my interns
    - **Techniques Used**: Data cleaning, aggregation, and visualization.
    - **Tools**: Excel, Power Query.
    - **Outcome**: Developed a dashboard showing salary ranges for different job roles, job locations, employment type etc., to enable a better understanding of compensation trends across industries.
+
+3. **80 Cereals**
+   - **Objective**: Analyze nutritional data for 80 different cereals and identify trends in nutrition labels.
+   - **Dataset**: [80 Cereals](https://www.kaggle.com/datasets/crawford/80-cereals) collected from Kaggle
+   - **Techniques Used**: Data cleaning, aggregation, and visualization.
+   - **Tools**: Excel, Power Query.
+   - **Outcome**: Created a dashboard to visualize nutritional content and highlight key patterns among different cereals.
