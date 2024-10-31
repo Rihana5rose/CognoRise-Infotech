@@ -1,5 +1,9 @@
 # Customer Personality Analysis Project
 
+<p align="center">
+  <img src="https://github.com/Rihana5rose/Images/blob/main/customer_Personality_analysis.jpg" alt="Dashboard Screenshot">
+</p>
+
 ## Project Overview
 
 This project analyzes a **Customer Personality** dataset to understand customer demographics, purchasing patterns, and engagement levels. By creating three interactive dashboards—**Customer**, **Product**, and **Purchase**—the project provides valuable insights for targeted marketing and product strategy.
