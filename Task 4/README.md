@@ -16,7 +16,7 @@ This project analyzes a **Customer Personality** dataset to understand customer 
   - [Product Dashboard](#product-dashboard)
   - [Purchase Dashboard](#purchase-dashboard)
 - [Key Insights](#key-insights)
-- [Getting Started](#getting-started)
+
 
 ---
 
