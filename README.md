@@ -24,3 +24,11 @@ This repository contains data analytics projects completed as part of my interns
    - **Techniques Used**: Data cleaning, aggregation, and visualization.
    - **Tools**: Excel, Power Query.
    - **Outcome**: Created a dashboard to visualize nutritional content and highlight key patterns among different cereals.
+
+4. **Customer Personality Analysis**
+   - **Objective**: Analyze customer demographics and purchasing behavior for targeted marketing.
+   - **Dataset**: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) sourced from Kaggle.
+   - **Techniques Used**: Data cleaning, segmentation, and visualization.
+   - **Tools**: Excel, Power Query.
+   - **Outcome**: Developed a dashboard highlighting customer profiles and purchase patterns for insights into marketing strategies.
+
